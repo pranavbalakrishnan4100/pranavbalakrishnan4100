@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Pranav Balakrishnan.
-- 👨‍🎓 I’m currently pursuing a bachelors in Electronics and Communication engineering.
-- 👨‍💻 My primary skills involve:
-  - Programming in C++ and Python.  
-  - Data structures and algorithms.
-  - DBMS-MySQL.
-  - Web Development-HTML,CSS,Javascript,jQuery,NodeJS+Express,Version control using Git and GitHub.
+- 💻 I'm currently working as a JAVA developer at Zoho Corporation.
+- 👨‍🎓 I have a bachelor's in Electronics and Communication engineering.
 - 📫 You can reach out to me via: pranav.bk@outlook.com.
 
 <!---
