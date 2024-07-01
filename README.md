@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Balakrishnan.
-- 💻 I'm currently working as a JAVA developer at Zoho Corporation.
+- 💻 I'm currently as a Full Stack Developer at @Sportskeeda.
 - 👨‍🎓 I have a bachelor's in Electronics and Communication engineering.
 - 📫 You can reach out to me via: pranav.bk@outlook.com.
 
